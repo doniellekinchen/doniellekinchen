@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doniellekinchen
 - 👀 I’m interested in learning software engineering
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any beginner projects!
 - 📫 How to reach me: donicodes.things@gmail.com
 
