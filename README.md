@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/donicodesthings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donicodesthings" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/donielle-kinchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donielle-kinchen" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/donielle-kinchen-b65a4271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donielle-kinchen" height="30" width="40" /></a>
 <a href="https://medium.com/@donicodes.things" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@donicodes.things" height="30" width="40" /></a>
 </p>
 </br>
