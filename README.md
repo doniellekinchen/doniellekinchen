@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to my Code 👩🏾‍💻 Abode!</h1>
+<img align="right" alt="bg" width="350" height="500" src="https://i.pinimg.com/originals/02/a4/90/02a490070dfca4fc21897c8312f013d1.gif">
+
+<h1 align="center">Welcome to my </br>Code 👩🏾‍💻 Abode!</h1>
 <h3 align="center">A SEI student at General Assembly from Atlanta, GA</h3>
 
 <p align="center">🌱 I’m currently learning <b>Node & Express</b></p>
@@ -21,7 +23,7 @@
 </p>
 </br>
 
-<h1 align="center">Learned</h1>
+<h1 align="left">Learned</h1>
 
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +31,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </br>
 
-<h1 align="center">Learning</h1>
+<h1 align="left">Learning</h1>
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
