@@ -1,19 +1,19 @@
 <img align="right" alt="bg" width="350" height="500" src="https://i.pinimg.com/originals/02/a4/90/02a490070dfca4fc21897c8312f013d1.gif">
 
-<h1 align="center">Welcome to my </br>Code 👩🏾‍💻 Abode!</h1>
-<h3 align="center">A SEI student at General Assembly from Atlanta, GA</h3>
+<h1 align="left">Welcome to my </br>Code 👩🏾‍💻 Abode!</h1>
+<h3 align="left">A SEI student at General Assembly from Atlanta, GA</h3>
 
-<p align="center">🌱 I’m currently learning <b>Node & Express</b></p>
+<p align="left">🌱 I’m currently learning <b>Node & Express</b></p>
 
-<p align="center">👯 I’m looking to collaborate on <b>small and beginner projects!</b> </p>
+<p align="left">👯 I’m looking to collaborate on <b>small and beginner projects!</b> </p>
 
-<p align="center">🤝 I’m looking for help with <b>any and everything!</b> </p>
+<p align="left">🤝 I’m looking for help with <b>any and everything!</b> </p>
 
-<p align="center">👨‍💻 All of my projects are available <b>in my GitHub repositories</b> </p>
+<p align="left">👨‍💻 All of my projects are available <b>in my GitHub repositories</b> </p>
 
-<p align="center">📝 I started writing articles on <a href="https://www.medium.com/donicodes.things"><i>Medium</i></a></p>
+<p align="left">📝 I started writing articles on <a href="https://www.medium.com/donicodes.things"><i>Medium</i></a></p>
 
-<p align="center">⚡ Fun fact: everyone thinks I'm funny...<b>but I'm serious</b>🥲 </p>
+<p align="left">⚡ Fun fact: everyone thinks I'm funny...<b>but I'm serious</b>🥲 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
