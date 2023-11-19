@@ -11,7 +11,7 @@
 
 <p align="left">👨‍💻 All of my projects are available <b>in my GitHub repositories</b> </p>
 
-<p align="left">📝 I started writing articles on <a href="https://www.medium.com/donicodes.things"><i>Medium</i></a></p>
+<p align="left">📝 I started writing articles on <a href="https://www.medium.com/@donicodes.things"><i>Medium</i></a></p>
 
 <p align="left">⚡ Fun fact: everyone thinks I'm funny...<b>but I'm serious</b>🥲 </p>
 
