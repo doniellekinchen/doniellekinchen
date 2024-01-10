@@ -1,5 +1,3 @@
-<img align="right" alt="bg" width="350" height="500" src="https://i.pinimg.com/originals/02/a4/90/02a490070dfca4fc21897c8312f013d1.gif">
-
 <h1 align="left">Welcome to my </br>Code 👩🏾‍💻 Abode!</h1>
 <h3 align="left">A SEI student at General Assembly from Atlanta, GA</h3>
 
