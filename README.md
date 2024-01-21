@@ -28,6 +28,6 @@
 
 <h1 align="left">Learning</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,vue)](https://skillicons.dev)
 
 </br>
