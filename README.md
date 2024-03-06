@@ -1,7 +1,7 @@
 <h1 align="left">Welcome to my </br>Code 👩🏾‍💻 Abode!</h1>
-<h3 align="left">A SEI student at General Assembly from Atlanta, GA</h3>
+<h3 align="left">A Software Engineer from Atlanta, GA</h3>
 
-<p align="left">🌱 I’m currently learning <b>Python, Django & SQL/NoSQL, and teaching myself Vue</b></p>
+<p align="left">🌱 I’m currently creating <b>new projects</b></p>
 
 <p align="left">👯 I’m looking to collaborate on <b>small and beginner projects!</b> </p>
 
