@@ -23,11 +23,11 @@
 
 <h1 align="left">Learned</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git,github,express,nodejs,mongodb,postman,react,java,supabase,solidity&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git,github,express,nodejs,mongodb,postman,react,vue,java,supabase,solidity&theme=light)](https://skillicons.dev)
 </br>
 
 <h1 align="left">Learning</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres)](https://skillicons.dev)
 
 </br>
