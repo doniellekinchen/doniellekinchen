@@ -1,7 +1,7 @@
 <h1 align="left">Welcome to my </br>Code 👩🏾‍💻 Abode!</h1>
 <h3 align="left">A Software Engineer from Atlanta, GA</h3>
 
-<p align="left">🌱 I’m currently creating <b>new projects</b></p>
+<p align="left">🌱 I’m currently creating <b>new projects</b>. A lot of my projects are sitting on my desktop, just gotta push 'em here!</p>
 
 <p align="left">👯 I’m looking to collaborate on <b>small and beginner projects!</b> </p>
 
@@ -23,7 +23,7 @@
 
 <h1 align="left">Learned</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git,github,express,nodejs,mongodb,postman,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git,github,express,nodejs,mongodb,postman,react,java,supabase,solidity&theme=light)](https://skillicons.dev)
 </br>
 
 <h1 align="left">Learning</h1>
